@@ -38,6 +38,22 @@ conda activate otoole-env
 
 ---
 
+## Supported Input Versions
+
+This script supports `.txt` input files generated from both OSeMOSYS MUIO Version 4.6 and Version 5.2.
+
+There are two separate runner scripts provided for handling these versions:
+
+| Version  | Script to Use         | Notes                                                    |
+|----------|-----------------------|----------------------------------------------------------|
+| 4.6      | `Run_CLEWs_4.6.py`    | For input files created using Version 4.6 of MUIO.      |
+| 5.2      | `Run_CLEWs_5.2.py`    | For input files created using Version 5.2 of MUIO.      |
+
+> Please ensure that you use the correct script corresponding to the version of your `.txt` input file.
+
+---
+
+
 ## Usage
 
 After activating the environment, run the script using:
