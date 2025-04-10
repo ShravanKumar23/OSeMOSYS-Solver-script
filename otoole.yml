@@ -1,0 +1,36 @@
+name: otoole2
+channels:
+  - defaults
+dependencies:
+  - ca-certificates=2024.7.2=haa95532_0
+  - openssl=3.0.14=h827c3e9_0
+  - pip=24.0=py39haa95532_0
+  - python=3.9.19=h1aa4202_1
+  - setuptools=69.5.1=py39haa95532_0
+  - sqlite=3.45.3=h2bbff1b_0
+  - vc=14.2=h2eaa2aa_4
+  - vs2015_runtime=14.29.30133=h43f2093_4
+  - wheel=0.43.0=py39haa95532_0
+  - pip:
+      - amply==0.1.6
+      - annotated-types==0.7.0
+      - docutils==0.21.2
+      - et-xmlfile==1.1.0
+      - flatten-dict==0.4.2
+      - networkx==3.2.1
+      - numpy==1.26.4
+      - openpyxl==3.1.5
+      - otoole==1.1.2
+      - pandas==2.0.3
+      - pydantic==2.8.2
+      - pydantic-core==2.20.1
+      - pydot==3.0.1
+      - pyparsing==3.1.2
+      - python-dateutil==2.9.0.post0
+      - pytz==2024.1
+      - pyyaml==6.0.1
+      - six==1.16.0
+      - typing-extensions==4.12.2
+      - tzdata==2024.1
+      - xlrd==2.0.1
+prefix: C:\Users\adm.desa\miniconda3\envs\otoole
