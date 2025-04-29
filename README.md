@@ -59,9 +59,11 @@ There are two separate runner scripts provided for handling these versions:
 After activating the environment, run the script using:
 
 ```bash
-python run_solver.py <input_file> <solver>
+python Run_CLEWs_4.6.py <input_file> <solver>
 ```
-
+```bash
+python Run_CLEWs_5.2.py <input_file> <solver>
+```
 ---
 
 ## Arguments
@@ -76,7 +78,7 @@ python run_solver.py <input_file> <solver>
 ## Example Command
 
 ```bash
-python run_solver.py my_model.txt gurobi
+python Run_CLEWs_5.2.py data.txt gurobi
 ```
 
 This command will:
