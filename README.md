@@ -24,7 +24,7 @@ Since the MUIO interface for OSeMOSYS does not support solvers like CPLEX and Gu
 
 2. Clone this repository:
 ```bash
-git clone https://github.com/yourusername/osemosys-solver-runner.git
+git clone https://github.com/ShravanKumar23/OSeMOSYS-Solver-script.git
 cd osemosys-solver-runner
 ```
 
